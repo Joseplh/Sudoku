@@ -7,7 +7,7 @@
  * -There must be only one of every number in each vertical column
  * @author Joseph Maxwell
  **/
-public class main {
+public class Source {
 
 	public static void main(String[] args) {
 		/* TODO Open a display for the program with a menu
